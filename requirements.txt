@@ -1,0 +1,7 @@
+allure-pytest
+pytest
+pytest-html
+pytest-xdist
+Appium-Python-Client
+appium
+webdriver-manager
